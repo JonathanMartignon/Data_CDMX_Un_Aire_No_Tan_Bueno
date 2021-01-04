@@ -1,5 +1,8 @@
 # Data_CDMX_Un_Aire_No_Tan_Bueno
 
+## Objetivo
+Los datos han sido descargados para llevar a cabo una investigación acerca del nivel de contaminantes presentes en diversas zonas de la CDMX, buscando factores que lo propicien, así como un equilibrio entre dichos elementos.
+
 ## Repositorio con Datos extraídos al día 4 de Enero de 2021 de: 
 - https://datos.cdmx.gob.mx/
 
