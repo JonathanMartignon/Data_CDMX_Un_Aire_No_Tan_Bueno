@@ -6,7 +6,7 @@ Los datos han sido descargados para llevar a cabo una investigación acerca del 
 ## Repositorio con Datos extraídos al día 4 de Enero de 2021 de: 
 - https://datos.cdmx.gob.mx/
 
-## Para ser más específicos aquí se presentan los link por dataset:
+## Para ser más específicos aquí se presenta el link por dataset:
 * Escuelas:
   - Públicas: https://datos.cdmx.gob.mx/explore/dataset/escuelas-publicas/table/
   - Privadas: https://datos.cdmx.gob.mx/explore/dataset/escuelas-privadas/table/
